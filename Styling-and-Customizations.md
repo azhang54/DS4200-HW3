@@ -1,0 +1,13 @@
+# List of CSS Styling and Customizations:
+- Custom background, text color, and font
+- Changed heading size and margins
+- Custom navigation bar
+    - Horizontal button styling
+    - Different colors from main body text and background
+    - Custom size and shape
+- Custom text box
+    - Different color text and background, same as navigation bar
+    - Custom size and shape, rounded corners
+- Image size and shape, rounded corners
+- Custom formatting
+    - Split into columns for Home (2 half page columns) and About (3 third page columns)
